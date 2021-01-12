@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="napravlenie" type="AUTO_DETECTED" />
+      <mapping pattern="where" type="AUTO_DETECTED" />
       <mapping ext="pde" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
